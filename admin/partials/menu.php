@@ -1,7 +1,9 @@
+<?php include('../config/constants.php');?>
+
 <html>
     <head>
         <title>food order website - Home page </title>
-        <link rel="stylesheet" href="../css/admin.css">
+        <link rel="stylesheet" href="../css/admin.css?v=<?php echo time(); ?>">
 </head>
     <body>
         <!-- menu section starts -->
