@@ -32,7 +32,7 @@ ver : 1.0
 }
 
 .tbl-30{
-    width: 42%;
+    width: 30%;
 }
 
 table tr th{
@@ -48,7 +48,7 @@ table tr td{
 
 .btn-primary{
     background-color: #1e90ff;
-    padding:1%;
+    padding: 1%;
     color:white;
     text-decoration: none;
     font-weight: bold;
@@ -136,4 +136,12 @@ menu ul li a{
 .footer{
     background-color: #ff4757;
     color:white;
+}
+
+/*css for login*/
+.login{
+    border: 1px solid grey;
+    width: 20%;
+    margin: 10% auto;
+    padding:2%;
 }

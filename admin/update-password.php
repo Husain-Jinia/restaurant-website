@@ -50,7 +50,7 @@
 
 <?php
     //check whther the submit button is clicked or not
-    if(isset($_POST['submit'])
+    if(isset($_POST['submit']))
     {
         //echo "clicked";
         //1. get the data from form
