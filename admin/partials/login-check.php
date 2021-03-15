@@ -7,6 +7,6 @@
         //redirect to login page with msg
         $_SESSION['no-login-message'] = "<div class='error'> please login to access menu panel</div>";
         //redirect to login page
-        header('loaction:'.SITEURL.'admin/login.php');
+        header('location:'.SITEURL.'admin/login.php');
     }
 ?>
